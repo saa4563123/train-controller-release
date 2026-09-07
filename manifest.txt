@@ -12,9 +12,9 @@
 [버전]
 ; 프로그램의 AppInfo.Version 보다 크면 사용자에게 업데이트를 물어봅니다.
 ; 새 버전을 낼 때 여기와 주소를 같이 고치세요.
-최신=2.6.0
-주소=https://github.com/saa4563123/train-controller-release/releases/download/v2.6.0/BveController.exe
-설명=TPOS 로 이름 변경, 시계 조작 방어, 전체 화면
+최신=2.7.0
+주소=https://github.com/saa4563123/train-controller-release/releases/download/v2.7.0/TPOS.exe
+설명=실행 파일이 TPOS.exe 로 바뀌었습니다. 기기 코드도 TPOS- 로 시작합니다
 
 [차단]
 ; 사용을 중지시킬 라이선스 번호를 한 줄에 하나씩 적습니다.
@@ -29,4 +29,4 @@
 
 [차단기기]
 ; 번호도 이름도 모를 때는 기기 코드로 막습니다.
-;BVE-XXXXX-XXXXX-XXXXX
+;TPOS-XXXXX-XXXXX-XXXXX
