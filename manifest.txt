@@ -1,5 +1,5 @@
 ; =========================================================================
-;  열차 운전대 제어기 - 원격 관리 파일
+;  TPOS (Train Panel Operation System) - 원격 관리 파일
 ;
 ;  프로그램이 켜질 때 이 파일을 받아서 두 가지를 확인합니다.
 ;    1. 새 버전이 나왔는지
@@ -12,9 +12,9 @@
 [버전]
 ; 프로그램의 AppInfo.Version 보다 크면 사용자에게 업데이트를 물어봅니다.
 ; 새 버전을 낼 때 여기와 주소를 같이 고치세요.
-최신=2.5.2
-주소=https://github.com/saa4563123/train-controller-release/releases/download/v2.5.2/BveController.exe
-설명=라이선스 종류 3가지 추가, 오프라인 유예 정리
+최신=2.6.0
+주소=https://github.com/saa4563123/train-controller-release/releases/download/v2.6.0/BveController.exe
+설명=TPOS 로 이름 변경, 시계 조작 방어, 전체 화면
 
 [차단]
 ; 사용을 중지시킬 라이선스 번호를 한 줄에 하나씩 적습니다.
