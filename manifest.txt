@@ -12,8 +12,8 @@
 [버전]
 ; 프로그램의 AppInfo.Version 보다 크면 사용자에게 업데이트를 물어봅니다.
 ; 새 버전을 낼 때 여기와 주소를 같이 고치세요.
-최신=2.5.0
-주소=https://github.com/saa4563123/train-controller-release/releases/download/v2.5.0/BveController.exe
+최신=2.5.2
+주소=https://github.com/saa4563123/train-controller-release/releases/download/v2.5.2/BveController.exe
 설명=라이선스 종류 3가지 추가, 오프라인 유예 정리
 
 [차단]
